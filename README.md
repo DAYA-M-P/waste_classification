@@ -40,6 +40,25 @@ The Flask-based web application allows users to:
 - HTML / CSS (for frontend)
 
 ---
+## 📂 File Structure
+
+wasteclassification.ipynb # Jupyter Notebook (model training)
+app.py # Flask web application (your .py file)
+model.pkl # Trained model saved with pickle
+static/uploads/ # Folder for uploaded images
+templates/index.html # HTML template for web UI
+
+
+---
+
+## 🚀 How to Run the Project
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/your-username/waste-classification.git
+cd waste-classification
+
 
 
 

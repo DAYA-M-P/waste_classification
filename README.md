@@ -51,66 +51,8 @@ templates/index.html # HTML template for web UI
 
 ---
 
-## 🚀 How to Run the Project
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/your-username/waste-classification.git
-cd waste-classification
-
----
-### Step 2: Install Dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-If requirements.txt doesn't exist, use:
-
-bash
-Copy
-Edit
-pip install flask tensorflow opencv-python numpy
-Step 3: Train or Use Pretrained Model
-You can either:
-
-Run wasteclassification.ipynb to train and export model.pkl, or
-
-Use the included model.pkl
-
-Step 4: Run the Web App
-bash
-Copy
-Edit
-python app.py
-Visit http://127.0.0.1:5000/ in your browser.
-
-📸 Example
-Upload an image like this:
 
 
-Result: "This image shows organic waste 🌱"
 
-👤 Author
-Your Name
-
-GitHub Profile
-
-📄 License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Would you like me to:
-- Save this as a downloadable `README.md` file?
-- Generate the missing `index.html` template?
-- Create `requirements.txt` for easy setup?
-
-Let me know how you'd like to proceed!
 
 

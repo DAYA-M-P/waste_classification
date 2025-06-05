@@ -59,16 +59,6 @@ templates/index.html # HTML template for web UI
 git clone https://github.com/your-username/waste-classification.git
 cd waste-classification
 
-### Step 2: Install Dependencies
-
-pip install -r requirements.txt
-
-If requirements.txt doesn't exist, use:
-
-pip install flask tensorflow opencv-python numpy
-
-Step 3: Train or Use Pretrained Model
-You can either:
 
 
 

@@ -41,5 +41,5 @@ The Flask-based web application allows users to:
 
 ---
 
-## 📂 File Structure
+
 

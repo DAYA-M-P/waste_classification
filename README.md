@@ -59,7 +59,7 @@ templates/index.html # HTML template for web UI
 ### Step 1: Clone the Repository
 
 
-git clone https://github.com/your-username/waste-classification.git
+git clone 
 cd waste-classification
 
 ---
@@ -83,8 +83,7 @@ Use the included model.pkl
 bash
 Copy
 Edit
-python app.py
-Visit http://127.0.0.1:5000/ in your browser.
+
 
 📸 Example
 Upload an image like this:
@@ -92,17 +91,14 @@ Upload an image like this:
 
 Result: "This image shows organic waste 🌱"
 
+
+
+
 👤 Author
 DAYA M P
 
-GitHub Profile
 
-📄 License
-This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
 
 ---
 

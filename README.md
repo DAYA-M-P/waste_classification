@@ -1,15 +1,45 @@
-#Waste Classification Using Machine Learning
+# 🗑️ Waste Classification using CNN with Web App Interface
 
-This project uses a Convolutional Neural Network (CNN) to classify images of waste into categories such as recyclable, organic, and general waste. The goal is to assist in automated waste segregation and promote better recycling practices.
- Features
- 
-CNN model using TensorFlow/Keras
+This project uses a Convolutional Neural Network (CNN) to classify waste into categories (e.g., recyclable or organic). It also includes a Flask web application that allows users to upload images and get real-time waste classification results.
 
-Image preprocessing and data augmentation
-Model evaluation with accuracy and loss visualization
-Can be extended to real-time classification with webcam or API
+---
 
-The dataset used consists of images of waste items categorized into two types such as:
+## 📌 Project Objective
 
-Organic
-Non Organic
+To build an AI-powered tool that classifies waste from images to promote sustainable waste management. The solution includes both a machine learning model and an interactive web interface.
+
+---
+
+## 🧠 Model Overview
+
+- Model Type: Convolutional Neural Network (CNN)
+- Framework: TensorFlow / Keras
+- Input Size: 224x224 RGB images
+- Output Classes:
+  - **0**: Recyclable ♻️
+  - **1**: Organic 🌱
+
+---
+
+## 🕸️ Web Interface
+
+The Flask-based web application allows users to:
+
+- Upload an image of waste
+- View the predicted category (Recyclable / Organic)
+- Display the uploaded image with the result
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Flask
+- TensorFlow / Keras
+- OpenCV
+- HTML / CSS (for frontend)
+
+---
+
+## 📂 File Structure
+

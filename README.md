@@ -97,14 +97,5 @@ DAYA M P
 
 
 
----
 
-Would you like me to:
-- Save this as a downloadable `README.md` file?
-- Generate the missing `index.html` template?
-- Create `requirements.txt` for easy setup?
-
-Let me know how you'd like to proceed!
-
-```bash
 

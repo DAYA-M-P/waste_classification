@@ -80,9 +80,6 @@ Run wasteclassification.ipynb to train and export model.pkl, or
 Use the included model.pkl
 
 ### Step 4: Run the Web App
-bash
-Copy
-Edit
 
 
 📸 Example

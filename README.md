@@ -42,10 +42,10 @@ The Flask-based web application allows users to:
 ---
 ## 📂 File Structure
 
-wasteclassification.ipynb # Jupyter Notebook (model training)
-app.py # Flask web application (your .py file)
-model.pkl # Trained model saved with pickle
-static/uploads/ # Folder for uploaded images
+wasteclassification.ipynb # Jupyter Notebook (model training),
+app.py # Flask web application (your .py file),
+model.pkl # Trained model saved with pickle,
+static/uploads/ # Folder for uploaded images,
 templates/index.html # HTML template for web UI
 
 
